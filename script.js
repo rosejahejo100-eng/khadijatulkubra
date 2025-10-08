@@ -7,16 +7,3 @@
       )
       .join("");
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Khadija Tul Kubra",
-  "url": "https://rosejahejo100-eng.github.io/khadijatulkubra",
-  "logo": "https://rosejahejo100-eng.github.io/khadijatulkubra/assets/favicon.png"
-}
-</script>
-
-
-
-
